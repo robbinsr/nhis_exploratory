@@ -2,14 +2,14 @@ import re
 import os
 
 os.chdir('/media/robbinsr/a94ffb60-544f-46c2-874c-bab46457fdb6/robbinsr_/' +
-         'Projects/p_projects/nhis_exploratory/nhis_2014_familyxx')
+         'Projects/p_projects/nhis_exploratory/nhis_2014_fmlydisb')
 
-custom_parser_input_file_name = "nhis_2014_familyxx.dat"
-custom_parser_program_file_name = "nhis_2014_familyxx_parser_2.py"
-custom_parser_output_file_name = "nhis_2014_familyxx.csv"
-element_names_file_name = 'nhis_2014_familyxx_element_names.txt'
-element_positions_file_name = "nhis_2014_familyxx_element_positions.txt"
-error_log_file_name = "nhis_2014_familyxx_write_parser_log_2.txt"
+custom_parser_input_file_name = "nhis_2014_fmlydisb.dat"
+custom_parser_program_file_name = "nhis_2014_fmlydisb_parser_2.py"
+custom_parser_output_file_name = "nhis_2014_fmlydisb.csv"
+element_names_file_name = 'nhis_2014_fmlydisb_element_names.txt'
+element_positions_file_name = "nhis_2014_fmlydisb_element_positions.txt"
+error_log_file_name = "nhis_2014_fmlydisb_write_parser_log_2.txt"
 
 error_log_file_writer = open(error_log_file_name, mode='w', encoding='utf8')
 
@@ -40,8 +40,8 @@ def confirm_widest_data_line_equals_largest_element_position(
             highest_position = 0
             result = None
             for line in element_p_f_n:
-                temp = line.strip('\ufeff')
-                temp2 = temp.strip(' ')
+                line = line.replace(u'\ufeff', '')
+                temp2 = line.strip(' ')
                 match = re.search('([0-9]+)(-)([0-9]+)', temp2)
                 if match is not None:
                     if match.group(3):
@@ -152,8 +152,8 @@ def confirm_names_and_positions_files_same_length(element_names_file_n,
                 temp = line.strip()
                 element_names_list.append(temp)
             for line in element_positions_f:
-                temp = line.strip('\ufeff')
-                temp2 = temp.strip(' ')
+                line = line.replace(u'\ufeff', '')
+                temp2 = line.strip(' ')
                 element_positions_list.append(temp2)
             names_list_length = len(element_names_list)
             positions_list_length = len(element_positions_list)
@@ -206,8 +206,8 @@ def capture_element_names_in_list(element_names_file_n):
     with open(element_names_f_n, mode='r', encoding='utf8') as element_n_f_n:
         element_names = []
         for element_name in element_n_f_n:
-            temp = element_name.strip('\ufeff')
-            temp2 = temp.strip('\n')
+            element_name = element_name.replace(u'\ufeff', '')
+            temp2 = element_name.strip('\n')
             temp3 = temp2.strip(' ')
             match = re.search('[A-Z0-9_]+', temp3)
             if match is not None:
@@ -287,8 +287,8 @@ def build_position_based_condition_blocks_list(element_names_l,
         element_positions = []
         condition_blocks = []
         for i, position in enumerate(element_p_f_n):
-            temp = position.strip('\ufeff')
-            position = temp.strip('\n')
+            position = position.replace(u'\ufeff', '')
+            position = position.strip('\n')
             element_positions.append(position)
 
             elseif = 'elif '
