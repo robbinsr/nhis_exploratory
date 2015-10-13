@@ -1,3 +1,0 @@
-test_parser.py written. Please check test_error_log.txt as well.
-If necessary, contact russ.robbins@outlook.com
-No errors are known to have occurred.

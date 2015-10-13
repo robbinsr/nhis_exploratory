@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-input_data_FILE = "nhis_2014_familyxx.dat"
+custom_parser_input_file_name = "nhis_2014_familyxx.dat"
 
 RECTYPE = ''
 SRVY_YR = ''
@@ -259,9 +259,9 @@ FSNAPMYR_LIST = []
 FWICYN_LIST = []
 FWICCT_LIST = []
 
-with open(input_data_FILE, encoding="utf8", mode="r") as f_data:
-    for ldx, line in enumerate(f_data):
-        if ldx < 20:
+with open(custom_parser_input_file_name, encoding="utf8", mode="r") as f:
+    for ldx, line in enumerate(f):
+        if ldx < 45596:
             RECTYPE_accumulator_LIST = []
             SRVY_YR_accumulator_LIST = []
             HHX_accumulator_LIST = []
@@ -776,7 +776,7 @@ with open(input_data_FILE, encoding="utf8", mode="r") as f_data:
                     if char == '\n':
                         pass
                     else:
-                        print("CASE NOT HANDLED")
+                        print("Problem: Email russ.robbins@outlook.com")
 
         RECTYPE_LIST.append(RECTYPE)
         SRVY_YR_LIST.append(SRVY_YR)
@@ -1036,7 +1036,7 @@ df = pd.DataFrame(columns=(
                             'FWICCT'
                                     ))
 
-for i in range(20):
+for i in range(45596):
     df.loc[i] = [
                     RECTYPE_LIST[i],
                     SRVY_YR_LIST[i],
@@ -1166,6 +1166,5 @@ for i in range(20):
                     FWICYN_LIST[i],
                     FWICCT_LIST[i]
                                     ]
-
 df = df.applymap(lambda x: np.nan if str(x).isspace() else x)
-df.to_csv("nhis_2014_familyxx_data.csv")
+df.to_csv("nhis_2014_familyxx.csv")
