@@ -1,3 +1,0 @@
-nhis_2014_fmlydisb_parser_2.py written. Please check nhis_2014_fmlydisb_write_parser_log_2.txt as well.
-If necessary, contact russ.robbins@outlook.com
-No errors are known to have occurred.

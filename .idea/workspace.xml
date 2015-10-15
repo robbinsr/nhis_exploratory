@@ -20,24 +20,26 @@
     <SUITE FILE_PATH="coverage/nhis_exploratory$write_nhis_2014_parser__3_.coverage" NAME="write_nhis_2014_parser (3) Coverage Results" MODIFIED="1444605613091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nhis_exploratory$nhis_2014_injpoiep_parser.coverage" NAME="nhis_2014_injpoiep_parser Coverage Results" MODIFIED="1444772989902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_injpoiep" />
     <SUITE FILE_PATH="coverage/nhis_exploratory$write_nhis_2014_parser.coverage" NAME="write_nhis_2014_parser Coverage Results" MODIFIED="1444604811048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_INCMIMP" />
-    <SUITE FILE_PATH="coverage/nhis_exploratory$in_process_nhis_2014_parser_writer__2_.coverage" NAME="in_process_nhis_2014_parser_writer (2) Coverage Results" MODIFIED="1444773266112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_funcdisb" />
+    <SUITE FILE_PATH="coverage/nhis_exploratory$in_process_nhis_2014_parser_writer__2_.coverage" NAME="in_process_nhis_2014_parser_writer (2) Coverage Results" MODIFIED="1444949079761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_personsx" />
     <SUITE FILE_PATH="coverage/nhis_exploratory$template_test.coverage" NAME="template_test Coverage Results" MODIFIED="1444426653407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nhis_exploratory$nhis_2014_samchild_parser.coverage" NAME="nhis_2014_samchild_parser Coverage Results" MODIFIED="1444604185307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_samchild" />
     <SUITE FILE_PATH="coverage/nhis_exploratory$nhis_2014_samadult_parser.coverage" NAME="nhis_2014_samadult_parser Coverage Results" MODIFIED="1444606043699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_samadult" />
     <SUITE FILE_PATH="coverage/nhis_exploratory$test_parser.coverage" NAME="test_parser Coverage Results" MODIFIED="1444772023873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/nhis_exploratory$nhis_2014_personsx_parser__1_.coverage" NAME="nhis_2014_personsx_parser (1) Coverage Results" MODIFIED="1444601449952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_personsx" />
     <SUITE FILE_PATH="coverage/nhis_exploratory$populate_paradata.coverage" NAME="populate_paradata Coverage Results" MODIFIED="1444423390623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/nhis_exploratory$nhis_2014_househld_parser.coverage" NAME="nhis_2014_househld_parser Coverage Results" MODIFIED="1444603303611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_househld" />
+    <SUITE FILE_PATH="coverage/nhis_exploratory$nhis_2014_househld_parser.coverage" NAME="nhis_2014_househld_parser Coverage Results" MODIFIED="1444837713245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_househld" />
     <SUITE FILE_PATH="coverage/nhis_exploratory$build_populate_master.coverage" NAME="build_populate_master Coverage Results" MODIFIED="1444580845076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nhis_exploratory$make_test_dat_file.coverage" NAME="make_test_dat_file Coverage Results" MODIFIED="1444656982729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/nhis_exploratory$nhis_2014_funcdisb_parser.coverage" NAME="nhis_2014_funcdisb_parser Coverage Results" MODIFIED="1444773390292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_funcdisb" />
-    <SUITE FILE_PATH="coverage/nhis_exploratory$in_process_nhis_2014_parser_writer.coverage" NAME="in_process_nhis_2014_parser_writer Coverage Results" MODIFIED="1444778116944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_familyxx" />
-    <SUITE FILE_PATH="coverage/nhis_exploratory$stack_incmimp_dat_files.coverage" NAME="stack_incmimp_dat_files Coverage Results" MODIFIED="1444604625218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_INCMIMP" />
-    <SUITE FILE_PATH="coverage/nhis_exploratory$nhis_2014_incmimp_parser.coverage" NAME="nhis_2014_incmimp_parser Coverage Results" MODIFIED="1444605325100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_incmimp" />
-    <SUITE FILE_PATH="coverage/nhis_exploratory$in_process_nhis_2014_parser_writer__1_.coverage" NAME="in_process_nhis_2014_parser_writer (1) Coverage Results" MODIFIED="1444778960852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_fmlydisb" />
+    <SUITE FILE_PATH="coverage/nhis_exploratory$nhis_2014_funcdisb_parser.coverage" NAME="nhis_2014_funcdisb_parser Coverage Results" MODIFIED="1444819849155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_funcdisb" />
+    <SUITE FILE_PATH="coverage/nhis_exploratory$in_process_nhis_2014_parser_writer.coverage" NAME="in_process_nhis_2014_parser_writer Coverage Results" MODIFIED="1444949670661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_samchild" />
+    <SUITE FILE_PATH="coverage/nhis_exploratory$stack_incmimp_dat_files.coverage" NAME="stack_incmimp_dat_files Coverage Results" MODIFIED="1444907486586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_incmimp" />
+    <SUITE FILE_PATH="coverage/nhis_exploratory$nhis_2014_incmimp_parser.coverage" NAME="nhis_2014_incmimp_parser Coverage Results" MODIFIED="1444948615926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_incmimp" />
+    <SUITE FILE_PATH="coverage/nhis_exploratory$in_process_nhis_2014_parser_writer__1_.coverage" NAME="in_process_nhis_2014_parser_writer (1) Coverage Results" MODIFIED="1444948823721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_paradata" />
     <SUITE FILE_PATH="coverage/nhis_exploratory$write_nhis_2014_parser__2_.coverage" NAME="write_nhis_2014_parser (2) Coverage Results" MODIFIED="1444605626062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_paradata" />
     <SUITE FILE_PATH="coverage/nhis_exploratory$paradata_parser.coverage" NAME="paradata_parser Coverage Results" MODIFIED="1444579899806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nhis_exploratory$in_process_nhis_2014_parser_writer__3_.coverage" NAME="in_process_nhis_2014_parser_writer (3) Coverage Results" MODIFIED="1444949421342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_samadult" />
     <SUITE FILE_PATH="coverage/nhis_exploratory$nhis_2014_paradata_parser.coverage" NAME="nhis_2014_paradata_parser Coverage Results" MODIFIED="1444605631062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_paradata" />
+    <SUITE FILE_PATH="coverage/nhis_exploratory$nhis_2014_fmlydisb_parser.coverage" NAME="nhis_2014_fmlydisb_parser Coverage Results" MODIFIED="1444814947831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nhis_2014_fmlydisb" />
     <SUITE FILE_PATH="coverage/nhis_exploratory$DEBUG.coverage" NAME="DEBUG Coverage Results" MODIFIED="1444585553281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/nhis_exploratory$nhis_2014_personsx_parser.coverage" NAME="nhis_2014_personsx_parser Coverage Results" MODIFIED="1444587950360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -55,7 +57,20 @@
     <favorites_list name="nhis_exploratory" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="nhis_2014_incmimp_parser.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nhis_2014_incmimp/nhis_2014_incmimp_parser.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.090625">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,18 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/nhis_paradata_parser" />
-        <option value="$PROJECT_DIR$/parser_template.txt" />
-        <option value="$PROJECT_DIR$/nhis_paradata_parser.py" />
-        <option value="$PROJECT_DIR$/build_populate_master.py" />
-        <option value="$PROJECT_DIR$/paradata_parser.py" />
-        <option value="$PROJECT_DIR$/archive/paradata_parser.py" />
-        <option value="$PROJECT_DIR$/write_nhis_2014_parser_template.txt" />
-        <option value="$PROJECT_DIR$/paradata_nhis_2014_parser_standard.py" />
-        <option value="$PROJECT_DIR$/DEBUG.py" />
-        <option value="$PROJECT_DIR$/personsx_nhis_2014_element_positions.txt" />
-        <option value="$PROJECT_DIR$/personsx_nhis_2014_element_names.txt" />
-        <option value="$PROJECT_DIR$/nhis_2014_personsx/write_nhis_2014_parser.py" />
         <option value="$PROJECT_DIR$/nhis_2014_injpoiep/write_nhis_2014_parser.py" />
         <option value="$PROJECT_DIR$/nhis_2014_familyxx/write_nhis_2014_parser.py" />
         <option value="$PROJECT_DIR$/nhis_2014_familyxx/nhis_2014_familyxx_element_names.txt" />
@@ -97,7 +100,6 @@
         <option value="$PROJECT_DIR$/nhis_2014_INCMIMP/nhis_2014_incmimp_element_positions.txt" />
         <option value="$PROJECT_DIR$/nhis_2014_incmimp/write_nhis_2014_parser.py" />
         <option value="$PROJECT_DIR$/nhis_2014_paradata/write_nhis_2014_parser.py" />
-        <option value="$PROJECT_DIR$/nhis_2014_samadult/nhis_2014_samadult_parser.py" />
         <option value="$PROJECT_DIR$/make_test_dat_file.py" />
         <option value="$PROJECT_DIR$/write_nhis_2014_parser.py" />
         <option value="$PROJECT_DIR$/master/write_nhis_2014_parser_template.txt" />
@@ -115,9 +117,22 @@
         <option value="$PROJECT_DIR$/nhis_2014_funcdisb/nhis_2014_funcdisb_parser.py" />
         <option value="$PROJECT_DIR$/nhis_2014_familyxx/nhis_2014_familyxx_parser.py" />
         <option value="$PROJECT_DIR$/nhis_2014_familyxx/in_process_nhis_2014_parser_writer.py" />
-        <option value="$PROJECT_DIR$/nhis_2014_fmlydisb/in_process_nhis_2014_parser_writer.py" />
         <option value="$PROJECT_DIR$/nhis_2014_fmlydisb/nhis_2014_fmlydisb_element_positions.txt" />
         <option value="$PROJECT_DIR$/nhis_2014_fmlydisb/nhis_2014_fmlydisb_parser_2.py" />
+        <option value="$PROJECT_DIR$/nhis_2014_fmlydisb/in_process_nhis_2014_parser_writer.py" />
+        <option value="$PROJECT_DIR$/nhis_2014_househld/in_process_nhis_2014_parser_writer.py" />
+        <option value="$PROJECT_DIR$/nhis_2014_househld/nhis_2014_househld_parser.py" />
+        <option value="$PROJECT_DIR$/nhis_2014_incmimp/in_process_nhis_2014_parser_writer.py" />
+        <option value="$PROJECT_DIR$/nhis_2014_incmimp/stack_incmimp_dat_files.py" />
+        <option value="$PROJECT_DIR$/nhis_2014_incmimp/nhis_2014_incmimp_parser.py" />
+        <option value="$PROJECT_DIR$/nhis_2014_paradata/in_process_nhis_2014_parser_writer.py" />
+        <option value="$PROJECT_DIR$/nhis_2014_paradata/nhis_2014_paradata_parser.py" />
+        <option value="$PROJECT_DIR$/nhis_2014_personsx/in_process_nhis_2014_parser_writer.py" />
+        <option value="$PROJECT_DIR$/nhis_2014_personsx/nhis_2014_personsx_parser.py" />
+        <option value="$PROJECT_DIR$/nhis_2014_samadult/in_process_nhis_2014_parser_writer.py" />
+        <option value="$PROJECT_DIR$/nhis_2014_samadult/nhis_2014_samadult_parser.py" />
+        <option value="$PROJECT_DIR$/nhis_2014_samchild/in_process_nhis_2014_parser_writer.py" />
+        <option value="$PROJECT_DIR$/nhis_2014_samchild/nhis_2014_samchild_parser.py" />
       </list>
     </option>
   </component>
@@ -130,9 +145,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1665" />
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1535" />
-    <option name="height" value="904" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -157,6 +172,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -175,10 +191,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nhis_exploratory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nhis_exploratory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nhis_2014_samchild" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,11 +227,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/nhis_2014_fmlydisb" />
-      <recent name="$PROJECT_DIR$/nhis_2014_familyxx" />
-      <recent name="$PROJECT_DIR$/nhis_2014_funcdisb" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/nhis_2014_samchild" />
+      <recent name="$PROJECT_DIR$/nhis_2014_samadult" />
+      <recent name="$PROJECT_DIR$/nhis_2014_personsx" />
+      <recent name="$PROJECT_DIR$/nhis_2014_paradata" />
+      <recent name="$PROJECT_DIR$/nhis_2014_incmimp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/archive" />
@@ -212,75 +241,21 @@
       <recent name="$PROJECT_DIR$/nhis_2014_personsx" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.in_process_nhis_2014_parser_writer (1)">
-    <configuration default="false" name="in_process_nhis_2014_parser_writer (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.in_process_nhis_2014_parser_writer">
+    <configuration default="false" name="nhis_2014_incmimp_parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nhis_2014_funcdisb" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nhis_2014_incmimp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="nhis_exploratory" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nhis_2014_funcdisb/in_process_nhis_2014_parser_writer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="nhis_2014_funcdisb_parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nhis_2014_funcdisb" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="nhis_exploratory" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nhis_2014_funcdisb/nhis_2014_funcdisb_parser.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="in_process_nhis_2014_parser_writer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nhis_2014_familyxx" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="nhis_exploratory" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nhis_2014_familyxx/in_process_nhis_2014_parser_writer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="nhis_2014_familyxx_parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nhis_2014_familyxx" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="nhis_exploratory" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nhis_2014_familyxx/nhis_2014_familyxx_parser.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nhis_2014_incmimp/nhis_2014_incmimp_parser.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -292,13 +267,67 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nhis_2014_fmlydisb" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nhis_2014_paradata" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="nhis_exploratory" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nhis_2014_fmlydisb/in_process_nhis_2014_parser_writer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nhis_2014_paradata/in_process_nhis_2014_parser_writer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="in_process_nhis_2014_parser_writer (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nhis_2014_personsx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nhis_exploratory" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nhis_2014_personsx/in_process_nhis_2014_parser_writer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="in_process_nhis_2014_parser_writer (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nhis_2014_samadult" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nhis_exploratory" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nhis_2014_samadult/in_process_nhis_2014_parser_writer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="in_process_nhis_2014_parser_writer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nhis_2014_samchild" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nhis_exploratory" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nhis_2014_samchild/in_process_nhis_2014_parser_writer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -492,19 +521,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.in_process_nhis_2014_parser_writer (2)" />
-      <item index="1" class="java.lang.String" itemvalue="Python.nhis_2014_funcdisb_parser" />
-      <item index="2" class="java.lang.String" itemvalue="Python.in_process_nhis_2014_parser_writer" />
-      <item index="3" class="java.lang.String" itemvalue="Python.nhis_2014_familyxx_parser" />
-      <item index="4" class="java.lang.String" itemvalue="Python.in_process_nhis_2014_parser_writer (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Python.nhis_2014_incmimp_parser" />
+      <item index="1" class="java.lang.String" itemvalue="Python.in_process_nhis_2014_parser_writer (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.in_process_nhis_2014_parser_writer (2)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.in_process_nhis_2014_parser_writer (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.in_process_nhis_2014_parser_writer" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.in_process_nhis_2014_parser_writer (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.in_process_nhis_2014_parser_writer" />
-        <item index="2" class="java.lang.String" itemvalue="Python.nhis_2014_familyxx_parser" />
-        <item index="3" class="java.lang.String" itemvalue="Python.nhis_2014_funcdisb_parser" />
-        <item index="4" class="java.lang.String" itemvalue="Python.in_process_nhis_2014_parser_writer (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Python.in_process_nhis_2014_parser_writer" />
+        <item index="1" class="java.lang.String" itemvalue="Python.in_process_nhis_2014_parser_writer (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.in_process_nhis_2014_parser_writer (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.in_process_nhis_2014_parser_writer (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.nhis_2014_incmimp_parser" />
       </list>
     </recent_temporary>
   </component>
@@ -522,17 +551,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1665" y="-4" width="1535" height="904" extended-state="7" />
+    <frame x="1665" y="24" width="1535" height="876" extended-state="7" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.274681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.289456" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975152" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5031056" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16770187" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -585,28 +614,52 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/nhis_2014_incmimp/incmimp4.dat">
+    <entry file="file://$PROJECT_DIR$/nhis_2014_incmimp/nhis_2014_incmimp_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_househld/in_process_nhis_2014_parser_writer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_househld/nhis_2014_househld_parser.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_incmimp/incmimp3.dat">
+    <entry file="file://$PROJECT_DIR$/nhis_2014_incmimp/nhis_2014_incmimp4.dat">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_incmimp/incmimp2.dat">
+    <entry file="file://$PROJECT_DIR$/nhis_2014_incmimp/nhis_2014_incmimp3.dat">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_incmimp/incmimp1.dat">
+    <entry file="file://$PROJECT_DIR$/nhis_2014_incmimp/nhis_2014_incmimp2.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_incmimp/nhis_2014_incmimp1.dat">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -624,23 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6099426">
           <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_incmimp/stack_incmimp_dat_files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6565144">
-          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_incmimp/nhis_2014_incmimp_data.csv">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -669,7 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5612903">
           <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -677,7 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -685,7 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -693,7 +726,146 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_injpoiep/in_process_nhis_2014_parser_writer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13783784">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_funcdisb/nhis_2014_funcdisb.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1392.8027">
+          <caret line="526" column="2" selection-start-line="526" selection-start-column="2" selection-end-line="526" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_funcdisb/in_process_nhis_2014_parser_writer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3918919">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_familyxx/nhis_2014_familyxx.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in_process_nhis_2014_parser_writer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3918919">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_familyxx/in_process_nhis_2014_parser_writer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54864866">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_fmlydisb/nhis_2014_fmlydisb_element_positions.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47027028">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_fmlydisb/nhis_2014_fmlydisb.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_injpoiep/nhis_2014_injpoiep_write_parser_log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_fmlydisb/in_process_nhis_2014_parser_writer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23513514">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_fmlydisb/nhis_2014_fmlydisb_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11225806">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_funcdisb/nhis_2014_funcdisb_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.28648648">
+          <caret line="425" column="13" selection-start-line="425" selection-start-column="13" selection-end-line="425" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_funcdisb/nhis_2014_funcdisb.csv">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_househld/nhis_2014_househld.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_househld/nhis_2014_househld.csv">
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_incmimp/in_process_nhis_2014_parser_writer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13186814">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_househld/nhis_2014_househld_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20532915">
+          <caret line="163" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_incmimp/stack_incmimp_dat_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7703125">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_househld/in_process_nhis_2014_parser_writer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.090625">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="4" selection-end-column="67" />
         </state>
       </provider>
     </entry>
@@ -702,7 +874,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="271.43658">
+        <state vertical-scroll-proportion="0.9014778">
           <caret line="3173" column="23" selection-start-line="3173" selection-start-column="23" selection-end-line="3173" selection-end-column="23" />
           <folding />
         </state>
@@ -710,31 +882,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nhis_2014_injpoiep/nhis_2014_injpoiep_parser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36756757">
+        <state vertical-scroll-proportion="0.36875">
           <caret line="156" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="675" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_paradata/nhis_2014_paradata.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_paradata/in_process_nhis_2014_parser_writer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1359375">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_paradata/nhis_2014_paradata_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.215625">
+          <caret line="839" column="12" selection-start-line="839" selection-start-column="12" selection-end-line="839" selection-end-column="12" />
           <folding>
             <element signature="e#0#19#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_injpoiep/in_process_nhis_2014_parser_writer.py">
+    <entry file="file://$PROJECT_DIR$/nhis_2014_personsx/in_process_nhis_2014_parser_writer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13783784">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.4078125">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_funcdisb/nhis_2014_funcdisb.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1392.8027">
-          <caret line="526" column="2" selection-start-line="526" selection-start-column="2" selection-end-line="526" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_funcdisb/nhis_2014_funcdisb_write_parser_log.txt">
+    <entry file="file://$PROJECT_DIR$/nhis_2014_personsx/nhis_2014_personsx_write_parser_log.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -742,104 +930,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_funcdisb/nhis_2014_funcdisb_build_parser_log.txt">
+    <entry file="file://$PROJECT_DIR$/nhis_2014_personsx/nhis_2014_personsx_parser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.090625">
+          <caret line="5143" column="17" selection-start-line="5143" selection-start-column="17" selection-end-line="5143" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#19#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_samadult/in_process_nhis_2014_parser_writer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0453125">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_funcdisb/nhis_2014_funcdisb.csv">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_samadult/nhis_2014_samadult_parser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_funcdisb/in_process_nhis_2014_parser_writer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3918919">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_familyxx/nhis_2014_familyxx.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in_process_nhis_2014_parser_writer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3918919">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_familyxx/in_process_nhis_2014_parser_writer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54864866">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_fmlydisb/nhis_2014_fmlydisb_element_positions.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47027028">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_fmlydisb/in_process_nhis_2014_parser_writer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33112583">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_fmlydisb/nhis_2014_fmlydisb.dat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_fmlydisb/nhis_2014_fmlydisb_parser_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4108108">
-          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.375">
+          <caret line="6318" column="22" selection-start-line="0" selection-start-column="0" selection-end-line="7110" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_funcdisb/nhis_2014_funcdisb_parser.py">
+    <entry file="file://$PROJECT_DIR$/nhis_2014_samchild/in_process_nhis_2014_parser_writer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33783785">
-          <caret line="446" column="22" selection-start-line="446" selection-start-column="22" selection-end-line="446" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.2265625">
+          <caret line="6" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="793" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nhis_2014_injpoiep/nhis_2014_injpoiep_write_parser_log.txt">
+    <entry file="file://$PROJECT_DIR$/nhis_2014_samchild/nhis_2014_samchild_parser.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.359375">
+          <caret line="1983" column="20" selection-start-line="1983" selection-start-column="20" selection-end-line="1983" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nhis_2014_incmimp/nhis_2014_incmimp_parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.090625">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

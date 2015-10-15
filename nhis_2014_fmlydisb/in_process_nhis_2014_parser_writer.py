@@ -5,11 +5,11 @@ os.chdir('/media/robbinsr/a94ffb60-544f-46c2-874c-bab46457fdb6/robbinsr_/' +
          'Projects/p_projects/nhis_exploratory/nhis_2014_fmlydisb')
 
 custom_parser_input_file_name = "nhis_2014_fmlydisb.dat"
-custom_parser_program_file_name = "nhis_2014_fmlydisb_parser_2.py"
+custom_parser_program_file_name = "nhis_2014_fmlydisb_parser.py"
 custom_parser_output_file_name = "nhis_2014_fmlydisb.csv"
 element_names_file_name = 'nhis_2014_fmlydisb_element_names.txt'
 element_positions_file_name = "nhis_2014_fmlydisb_element_positions.txt"
-error_log_file_name = "nhis_2014_fmlydisb_write_parser_log_2.txt"
+error_log_file_name = "nhis_2014_fmlydisb_write_parser_log.txt"
 
 error_log_file_writer = open(error_log_file_name, mode='w', encoding='utf8')
 

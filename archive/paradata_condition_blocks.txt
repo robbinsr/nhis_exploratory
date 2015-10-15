@@ -1,0 +1,309 @@
+elif -1 < cdx < 2:
+	RECTYPE_accumulator_LIST.append(char)
+	RECTYPE= ''.join(RECTYPE_accumulator_LIST)
+elif 1 < cdx < 6:
+	SRVY_YR_accumulator_LIST.append(char)
+	SRVY_YR= ''.join(SRVY_YR_accumulator_LIST)
+elif 5 < cdx < 12:
+	HHX_accumulator_LIST.append(char)
+	HHX= ''.join(HHX_accumulator_LIST)
+elif 11 < cdx < 13:
+	INTV_QRT_accumulator_LIST.append(char)
+	INTV_QRT= ''.join(INTV_QRT_accumulator_LIST)
+elif 12 < cdx < 15:
+	INTV_MON_accumulator_LIST.append(char)
+	INTV_MON= ''.join(INTV_MON_accumulator_LIST)
+elif 14 < cdx < 17:
+	FMX_accumulator_LIST.append(char)
+	FMX= ''.join(FMX_accumulator_LIST)
+elif 16 < cdx < 20:
+	OUTCOME1_accumulator_LIST.append(char)
+	OUTCOME1= ''.join(OUTCOME1_accumulator_LIST)
+elif 19 < cdx < 28:
+	WTIA_PD_accumulator_LIST.append(char)
+	WTIA_PD= ''.join(WTIA_PD_accumulator_LIST)
+elif 27 < cdx < 29:
+	QCSASCFM_accumulator_LIST.append(char)
+	QCSASCFM= ''.join(QCSASCFM_accumulator_LIST)
+elif 28 < cdx < 30:
+	QCFAM_accumulator_LIST.append(char)
+	QCFAM= ''.join(QCFAM_accumulator_LIST)
+elif 29 < cdx < 32:
+	TOTCOUNT_accumulator_LIST.append(char)
+	TOTCOUNT= ''.join(TOTCOUNT_accumulator_LIST)
+elif 31 < cdx < 34:
+	MODE_P_accumulator_LIST.append(char)
+	MODE_P= ''.join(MODE_P_accumulator_LIST)
+elif 33 < cdx < 36:
+	MODE_T_accumulator_LIST.append(char)
+	MODE_T= ''.join(MODE_T_accumulator_LIST)
+elif 35 < cdx < 38:
+	CTSTAT1_accumulator_LIST.append(char)
+	CTSTAT1= ''.join(CTSTAT1_accumulator_LIST)
+elif 37 < cdx < 40:
+	CTSTAT2_accumulator_LIST.append(char)
+	CTSTAT2= ''.join(CTSTAT2_accumulator_LIST)
+elif 39 < cdx < 42:
+	CTSTAT3_accumulator_LIST.append(char)
+	CTSTAT3= ''.join(CTSTAT3_accumulator_LIST)
+elif 41 < cdx < 43:
+	UNABLE1R_accumulator_LIST.append(char)
+	UNABLE1R= ''.join(UNABLE1R_accumulator_LIST)
+elif 42 < cdx < 44:
+	UNABLE2R_accumulator_LIST.append(char)
+	UNABLE2R= ''.join(UNABLE2R_accumulator_LIST)
+elif 43 < cdx < 45:
+	UNABLE3R_accumulator_LIST.append(char)
+	UNABLE3R= ''.join(UNABLE3R_accumulator_LIST)
+elif 44 < cdx < 46:
+	UNABLE4R_accumulator_LIST.append(char)
+	UNABLE4R= ''.join(UNABLE4R_accumulator_LIST)
+elif 45 < cdx < 47:
+	UNABLE5R_accumulator_LIST.append(char)
+	UNABLE5R= ''.join(UNABLE5R_accumulator_LIST)
+elif 46 < cdx < 48:
+	UNABL99R_accumulator_LIST.append(char)
+	UNABL99R= ''.join(UNABL99R_accumulator_LIST)
+elif 47 < cdx < 49:
+	LANG1R_accumulator_LIST.append(char)
+	LANG1R= ''.join(LANG1R_accumulator_LIST)
+elif 48 < cdx < 50:
+	LANG2R_accumulator_LIST.append(char)
+	LANG2R= ''.join(LANG2R_accumulator_LIST)
+elif 49 < cdx < 51:
+	LANG3R_accumulator_LIST.append(char)
+	LANG3R= ''.join(LANG3R_accumulator_LIST)
+elif 50 < cdx < 52:
+	LANG4R_accumulator_LIST.append(char)
+	LANG4R= ''.join(LANG4R_accumulator_LIST)
+elif 51 < cdx < 53:
+	LANG5R_accumulator_LIST.append(char)
+	LANG5R= ''.join(LANG5R_accumulator_LIST)
+elif 52 < cdx < 54:
+	NCTP01R_accumulator_LIST.append(char)
+	NCTP01R= ''.join(NCTP01R_accumulator_LIST)
+elif 53 < cdx < 55:
+	NCTPR03R_accumulator_LIST.append(char)
+	NCTPR03R= ''.join(NCTPR03R_accumulator_LIST)
+elif 54 < cdx < 56:
+	NCTPR04R_accumulator_LIST.append(char)
+	NCTPR04R= ''.join(NCTPR04R_accumulator_LIST)
+elif 55 < cdx < 57:
+	NCTP05R_accumulator_LIST.append(char)
+	NCTP05R= ''.join(NCTP05R_accumulator_LIST)
+elif 56 < cdx < 58:
+	NCTPR07R_accumulator_LIST.append(char)
+	NCTPR07R= ''.join(NCTPR07R_accumulator_LIST)
+elif 57 < cdx < 59:
+	NCTPR08R_accumulator_LIST.append(char)
+	NCTPR08R= ''.join(NCTPR08R_accumulator_LIST)
+elif 58 < cdx < 60:
+	NCTPR09R_accumulator_LIST.append(char)
+	NCTPR09R= ''.join(NCTPR09R_accumulator_LIST)
+elif 59 < cdx < 61:
+	NCTPR10R_accumulator_LIST.append(char)
+	NCTPR10R= ''.join(NCTPR10R_accumulator_LIST)
+elif 60 < cdx < 62:
+	NCTPR11R_accumulator_LIST.append(char)
+	NCTPR11R= ''.join(NCTPR11R_accumulator_LIST)
+elif 61 < cdx < 63:
+	NCTP12R_accumulator_LIST.append(char)
+	NCTP12R= ''.join(NCTP12R_accumulator_LIST)
+elif 62 < cdx < 64:
+	NCTPR99R_accumulator_LIST.append(char)
+	NCTPR99R= ''.join(NCTPR99R_accumulator_LIST)
+elif 63 < cdx < 65:
+	NCTL01R_accumulator_LIST.append(char)
+	NCTL01R= ''.join(NCTL01R_accumulator_LIST)
+elif 64 < cdx < 66:
+	NCTL02R_accumulator_LIST.append(char)
+	NCTL02R= ''.join(NCTL02R_accumulator_LIST)
+elif 65 < cdx < 67:
+	NCTEL03R_accumulator_LIST.append(char)
+	NCTEL03R= ''.join(NCTEL03R_accumulator_LIST)
+elif 66 < cdx < 68:
+	NCTEL04R_accumulator_LIST.append(char)
+	NCTEL04R= ''.join(NCTEL04R_accumulator_LIST)
+elif 67 < cdx < 69:
+	NCTEL05R_accumulator_LIST.append(char)
+	NCTEL05R= ''.join(NCTEL05R_accumulator_LIST)
+elif 68 < cdx < 70:
+	NCTL06R_accumulator_LIST.append(char)
+	NCTL06R= ''.join(NCTL06R_accumulator_LIST)
+elif 69 < cdx < 71:
+	NCTL07R_accumulator_LIST.append(char)
+	NCTL07R= ''.join(NCTL07R_accumulator_LIST)
+elif 70 < cdx < 72:
+	NCTEL99R_accumulator_LIST.append(char)
+	NCTEL99R= ''.join(NCTEL99R_accumulator_LIST)
+elif 71 < cdx < 73:
+	RELC01R_accumulator_LIST.append(char)
+	RELC01R= ''.join(RELC01R_accumulator_LIST)
+elif 72 < cdx < 74:
+	RELUC02R_accumulator_LIST.append(char)
+	RELUC02R= ''.join(RELUC02R_accumulator_LIST)
+elif 73 < cdx < 75:
+	RELUC03R_accumulator_LIST.append(char)
+	RELUC03R= ''.join(RELUC03R_accumulator_LIST)
+elif 74 < cdx < 76:
+	RELUC05R_accumulator_LIST.append(char)
+	RELUC05R= ''.join(RELUC05R_accumulator_LIST)
+elif 75 < cdx < 77:
+	RELUC06R_accumulator_LIST.append(char)
+	RELUC06R= ''.join(RELUC06R_accumulator_LIST)
+elif 76 < cdx < 78:
+	RELUC07R_accumulator_LIST.append(char)
+	RELUC07R= ''.join(RELUC07R_accumulator_LIST)
+elif 77 < cdx < 79:
+	RELC08R_accumulator_LIST.append(char)
+	RELC08R= ''.join(RELC08R_accumulator_LIST)
+elif 78 < cdx < 80:
+	RELC09R_accumulator_LIST.append(char)
+	RELC09R= ''.join(RELC09R_accumulator_LIST)
+elif 79 < cdx < 81:
+	RELUC11R_accumulator_LIST.append(char)
+	RELUC11R= ''.join(RELUC11R_accumulator_LIST)
+elif 80 < cdx < 82:
+	RELUC12R_accumulator_LIST.append(char)
+	RELUC12R= ''.join(RELUC12R_accumulator_LIST)
+elif 81 < cdx < 83:
+	RELC15R_accumulator_LIST.append(char)
+	RELC15R= ''.join(RELC15R_accumulator_LIST)
+elif 82 < cdx < 84:
+	RELUC98R_accumulator_LIST.append(char)
+	RELUC98R= ''.join(RELUC98R_accumulator_LIST)
+elif 83 < cdx < 85:
+	RELUC99R_accumulator_LIST.append(char)
+	RELUC99R= ''.join(RELUC99R_accumulator_LIST)
+elif 84 < cdx < 86:
+	STRAT01R_accumulator_LIST.append(char)
+	STRAT01R= ''.join(STRAT01R_accumulator_LIST)
+elif 85 < cdx < 87:
+	STRAT02R_accumulator_LIST.append(char)
+	STRAT02R= ''.join(STRAT02R_accumulator_LIST)
+elif 86 < cdx < 88:
+	STRAT03R_accumulator_LIST.append(char)
+	STRAT03R= ''.join(STRAT03R_accumulator_LIST)
+elif 87 < cdx < 89:
+	STRAT04R_accumulator_LIST.append(char)
+	STRAT04R= ''.join(STRAT04R_accumulator_LIST)
+elif 88 < cdx < 90:
+	STRAT05R_accumulator_LIST.append(char)
+	STRAT05R= ''.join(STRAT05R_accumulator_LIST)
+elif 89 < cdx < 91:
+	STRAT06R_accumulator_LIST.append(char)
+	STRAT06R= ''.join(STRAT06R_accumulator_LIST)
+elif 90 < cdx < 92:
+	STRT11R_accumulator_LIST.append(char)
+	STRT11R= ''.join(STRT11R_accumulator_LIST)
+elif 91 < cdx < 93:
+	STRAT12R_accumulator_LIST.append(char)
+	STRAT12R= ''.join(STRAT12R_accumulator_LIST)
+elif 92 < cdx < 94:
+	STRAT13R_accumulator_LIST.append(char)
+	STRAT13R= ''.join(STRAT13R_accumulator_LIST)
+elif 93 < cdx < 95:
+	STRT14R_accumulator_LIST.append(char)
+	STRT14R= ''.join(STRT14R_accumulator_LIST)
+elif 94 < cdx < 96:
+	STRAT98R_accumulator_LIST.append(char)
+	STRAT98R= ''.join(STRAT98R_accumulator_LIST)
+elif 95 < cdx < 97:
+	STRAT99R_accumulator_LIST.append(char)
+	STRAT99R= ''.join(STRAT99R_accumulator_LIST)
+elif 96 < cdx < 98:
+	REASSIGN_accumulator_LIST.append(char)
+	REASSIGN= ''.join(REASSIGN_accumulator_LIST)
+elif 97 < cdx < 99:
+	FLNGINTV_accumulator_LIST.append(char)
+	FLNGINTV= ''.join(FLNGINTV_accumulator_LIST)
+elif 98 < cdx < 100:
+	INTRPT_accumulator_LIST.append(char)
+	INTRPT= ''.join(INTRPT_accumulator_LIST)
+elif 99 < cdx < 101:
+	NONRES_accumulator_LIST.append(char)
+	NONRES= ''.join(NONRES_accumulator_LIST)
+elif 100 < cdx < 102:
+	NONRES2_accumulator_LIST.append(char)
+	NONRES2= ''.join(NONRES2_accumulator_LIST)
+elif 101 < cdx < 103:
+	INTMODE_accumulator_LIST.append(char)
+	INTMODE= ''.join(INTMODE_accumulator_LIST)
+elif 102 < cdx < 104:
+	RESPOND_accumulator_LIST.append(char)
+	RESPOND= ''.join(RESPOND_accumulator_LIST)
+elif 103 < cdx < 105:
+	COOPFAM_accumulator_LIST.append(char)
+	COOPFAM= ''.join(COOPFAM_accumulator_LIST)
+elif 104 < cdx < 106:
+	PARWHY_accumulator_LIST.append(char)
+	PARWHY= ''.join(PARWHY_accumulator_LIST)
+elif 105 < cdx < 107:
+	BRKWHER_accumulator_LIST.append(char)
+	BRKWHER= ''.join(BRKWHER_accumulator_LIST)
+elif 106 < cdx < 109:
+	BRKRES1_accumulator_LIST.append(char)
+	BRKRES1= ''.join(BRKRES1_accumulator_LIST)
+elif 108 < cdx < 111:
+	NCOMRES_accumulator_LIST.append(char)
+	NCOMRES= ''.join(NCOMRES_accumulator_LIST)
+elif 110 < cdx < 112:
+	TYPEABC_accumulator_LIST.append(char)
+	TYPEABC= ''.join(TYPEABC_accumulator_LIST)
+elif 111 < cdx < 113:
+	TYPEA1_accumulator_LIST.append(char)
+	TYPEA1= ''.join(TYPEA1_accumulator_LIST)
+elif 112 < cdx < 114:
+	TYPEB2_accumulator_LIST.append(char)
+	TYPEB2= ''.join(TYPEB2_accumulator_LIST)
+elif 113 < cdx < 115:
+	TELN_FLG_accumulator_LIST.append(char)
+	TELN_FLG= ''.join(TELN_FLG_accumulator_LIST)
+elif 114 < cdx < 116:
+	CURWRKN_accumulator_LIST.append(char)
+	CURWRKN= ''.join(CURWRKN_accumulator_LIST)
+elif 115 < cdx < 117:
+	TELCELN_accumulator_LIST.append(char)
+	TELCELN= ''.join(TELCELN_accumulator_LIST)
+elif 116 < cdx < 119:
+	WRKCELN_accumulator_LIST.append(char)
+	WRKCELN= ''.join(WRKCELN_accumulator_LIST)
+elif 118 < cdx < 120:
+	PHONEUSE_accumulator_LIST.append(char)
+	PHONEUSE= ''.join(PHONEUSE_accumulator_LIST)
+elif 119 < cdx < 121:
+	ENDPNT_accumulator_LIST.append(char)
+	ENDPNT= ''.join(ENDPNT_accumulator_LIST)
+elif 120 < cdx < 122:
+	STRTPNT_accumulator_LIST.append(char)
+	STRTPNT= ''.join(STRTPNT_accumulator_LIST)
+elif 121 < cdx < 123:
+	HHC_TOD_accumulator_LIST.append(char)
+	HHC_TOD= ''.join(HHC_TOD_accumulator_LIST)
+elif 122 < cdx < 124:
+	FMSTRPNT_accumulator_LIST.append(char)
+	FMSTRPNT= ''.join(FMSTRPNT_accumulator_LIST)
+elif 123 < cdx < 125:
+	FAM_TOD_accumulator_LIST.append(char)
+	FAM_TOD= ''.join(FAM_TOD_accumulator_LIST)
+elif 124 < cdx < 126:
+	SASTRPNT_accumulator_LIST.append(char)
+	SASTRPNT= ''.join(SASTRPNT_accumulator_LIST)
+elif 125 < cdx < 127:
+	SA_TOD_accumulator_LIST.append(char)
+	SA_TOD= ''.join(SA_TOD_accumulator_LIST)
+elif 126 < cdx < 128:
+	SCSTRPNT_accumulator_LIST.append(char)
+	SCSTRPNT= ''.join(SCSTRPNT_accumulator_LIST)
+elif 127 < cdx < 129:
+	SC_TOD_accumulator_LIST.append(char)
+	SC_TOD= ''.join(SC_TOD_accumulator_LIST)
+elif 128 < cdx < 132:
+	STRAT_P_accumulator_LIST.append(char)
+	STRAT_P= ''.join(STRAT_P_accumulator_LIST)
+elif 131 < cdx < 134:
+	PSU_P_accumulator_LIST.append(char)
+	PSU_P= ''.join(PSU_P_accumulator_LIST)
+elif 133 < cdx < 135:
+	CENREG_accumulator_LIST.append(char)
+	CENREG= ''.join(CENREG_accumulator_LIST)

@@ -1,0 +1,3 @@
+nhis_2014_samadult_parser.py written. Please check nhis_2014_samadult_write_parser_log.txt as well.
+If necessary, contact russ.robbins@outlook.com
+No errors are known to have occurred.
