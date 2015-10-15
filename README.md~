@@ -11,11 +11,11 @@ There are subdirectories for each of the types of *.dat files.
 
 TODO:
 
-1. Make program runnable from command line with command line arguments.
-2. Add argument for dat file length or choose to count lines.
-3. Use try/except/else/finally as appropriate.
+1. Add command line functionality/arguments.
+2. Identify number of lines in *.dat file and use.
+3. Use try/except/else/finally for more exception handling.
 4. Perform unit testing.
 5. Document how to use the program.
-6. Requirements for element_names and element positions files.
+6. Document requirements for element_names and element positions files.
 
 
