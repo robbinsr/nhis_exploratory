@@ -3,7 +3,7 @@ for Russ Robbins on GitHub.
 
 Currently this directory contains the 2014 National Health Interview Survey
 data as well as a program I am finishing writing. This program in turn
-writes parser programs for the following files:
+writes parser programs fo condensed ASCII files such as the following:
 
 1. familyxx.dat
 2. fmlydisb.dat
