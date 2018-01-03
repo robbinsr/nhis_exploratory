@@ -1,3 +1,5 @@
+After reading this file, if you would like to review the files in this repository, please select 'nhis_exploratory' above.
+
 You are reading the README.md file in the nhis_exploratory repository 
 for Russ Robbins on GitHub.
 
@@ -28,5 +30,4 @@ TODO:
 4. Perform unit testing.
 5. Document how to use the program.
 6. Document requirements for element_names and element positions files.
-
 
