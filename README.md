@@ -1,4 +1,4 @@
-After reading this file, if you would like to review the files in this repository, please select 'nhis_exploratory' above.
+**After reading this file, if you would like to review the files in this repository, please select 'robbinsr/nhis_exploratory' above.**
 
 You are reading the README.md file in the nhis_exploratory repository 
 for Russ Robbins on GitHub.
